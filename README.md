@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @some1won
 - 👀 I’m interested in automation and design
-- 🌱 I’m currently learning Python ans Postgres
+- 🌱 I’m currently learning Python and Postgres
 - 💞️ I’m not looking to collaborate at the moment ...
 - 📫 How to reach me ... TBA
 
